@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u3021_div {
+#u3025_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -27,7 +27,7 @@
   box-shadow:none;
   font-size:20px;
 }
-#u3021 {
+#u3025 {
   position:absolute;
   left:80px;
   top:69px;
@@ -35,14 +35,14 @@
   height:50px;
   font-size:20px;
 }
-#u3022 {
+#u3026 {
   position:absolute;
   left:0px;
   top:0px;
   width:498px;
   white-space:nowrap;
 }
-#u3023_div {
+#u3027_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -63,10 +63,10 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u3023 {
+#u3027 {
   position:absolute;
   left:80px;
-  top:320px;
+  top:129px;
   width:200px;
   height:40px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -74,14 +74,14 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u3024 {
+#u3028 {
   position:absolute;
   left:2px;
   top:11px;
   width:196px;
   word-wrap:break-word;
 }
-#u3025_div {
+#u3029_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -96,18 +96,87 @@
   box-shadow:none;
   font-size:20px;
 }
-#u3025 {
+#u3029 {
   position:absolute;
   left:80px;
-  top:370px;
+  top:179px;
   width:785px;
   height:112px;
   font-size:20px;
 }
-#u3026 {
+#u3030 {
   position:absolute;
   left:0px;
   top:0px;
   width:785px;
+  white-space:nowrap;
+}
+#u3031_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 0, 0, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(255, 0, 0, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u3031 {
+  position:absolute;
+  left:80px;
+  top:311px;
+  width:200px;
+  height:40px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u3032 {
+  position:absolute;
+  left:2px;
+  top:11px;
+  width:196px;
+  word-wrap:break-word;
+}
+#u3033_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:494px;
+  height:28px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:20px;
+}
+#u3033 {
+  position:absolute;
+  left:80px;
+  top:361px;
+  width:494px;
+  height:28px;
+  font-size:20px;
+}
+#u3034 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:494px;
   white-space:nowrap;
 }
